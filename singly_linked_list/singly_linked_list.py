@@ -164,4 +164,8 @@ class LinkedList:
 ​
    current = current.get_next()
 ​
+
    return max_so_far
+
+   return max_so_far
+
